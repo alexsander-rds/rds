@@ -34,12 +34,13 @@ html, body {
 
 .topbar {
     background-color: var(--back-color);
-    width: 100%; 
+    width: calc(100% - 200px);
     height: var(--topbar-height); 
     color: black;
     font-size: x-large;
-    display: flex; 
-    align-items: center; 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     padding: 10px 30px;
     box-shadow: 4px 2px 5px rgba(0, 0, 0, 0.1);
     position: fixed;
