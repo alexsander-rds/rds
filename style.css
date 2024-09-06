@@ -96,7 +96,7 @@ html, body {
 }
 
 .imagem{
-    background-image: url("1.png");
+    background-image: url("logo.png");
     width: 130px;
     background-size: contain;
     background-repeat: no-repeat;
