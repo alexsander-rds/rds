@@ -13,7 +13,10 @@
         <div class="imagem"></div>
     </div>
     <div class="main">
-        <div class="topbar">RDS - Mimosa</div>
+        <div class="topbar">
+            <div>RDS - Mimosa</div>
+            <button class="btn btn-primary" onclick="history.back()">Voltar</button>
+        </div>
         <div class="main-content">
             <div class="notification">
                 <div class="bar-not">
