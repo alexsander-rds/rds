@@ -11,5 +11,5 @@ document.addEventListener("DOMContentLoaded", function() {
     loadHTML('header', 'header/header.html');
     loadHTML('content', 'main/main-content.html');
     loadHTML('footer', 'footer/footer.html');
-    loadHTML('sidebar', 'sidebar/sidebar.html');
+    loadHTML('sidebar', 'sidebar/sidebar.html'); 
 });
