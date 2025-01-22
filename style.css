@@ -104,4 +104,5 @@ html, body {
     background-size: contain;
     background-repeat: no-repeat;
     margin: 20px;
+    height: 200px;
 }
